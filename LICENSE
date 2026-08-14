@@ -1,0 +1,30 @@
+Copyright (c) 2026 Ensignsoft. All rights reserved.
+
+END USER LICENSE AGREEMENT (EULA)
+
+1. LİSANS VERİLMESİ
+Ensignsoft ("Lisans Veren"), bu yazılımı ("Ensignbase") ve beraberindeki belgeleri kurmanız ve kullanmanız için size kişisel, devredilemez ve münhasır olmayan bir lisans verir.
+
+2. MÜLKİYET VE TELİF HAKKI
+Bu yazılımın kaynak kodları kapalıdır. Yazılımın mülkiyeti, telif hakları ve tüm fikri mülkiyet hakları Ensignsoft'a aittir. Yazılım satılmamakta, yalnızca kullanım hakkı lisanslanmaktadır.
+
+3. KISITLAMALAR
+Kullanıcı şunları yapamaz:
+- Yazılımı tersine mühendisliğe tabi tutmak (reverse engineering), kaynak kodunu kırmak, dönüştürmek veya parçalara ayırmak.
+- Yazılımı kopyalamak (yedekleme amacı dışında), değiştirmek, uyarlamak veya türev eserler oluşturmak.
+- Yazılımı kiralamak, satmak, alt lisansını vermek veya ticari kazanç sağlamak amacıyla dağıtmak.
+- Yazılımın içindeki herhangi bir telif hakkı, marka veya mülkiyet bildirimini kaldırmak veya değiştirmek.
+
+4. SORUMLULUK REDDİ
+Bu yazılım "OLDUĞU GİBİ" (AS IS) esasına göre sağlanmıştır. Ensignsoft, yazılımın performansı, güvenilirliği veya belirli bir amaca uygunluğu konusunda açık veya zımni hiçbir garanti vermez. Yazılımın kullanımından doğabilecek doğrudan, dolaylı, tesadüfi veya sonuç olarak ortaya çıkan zararlardan (veri kaybı, kar kaybı, iş kesintisi vb.) Ensignsoft sorumlu tutulamaz.
+
+5. VERİ GİZLİLİĞİ VE ZERO-TRUST
+Ensignbase, "Zero-Trust" (Sıfır Güven) mimarisi ile çalışır. Girdiğiniz şifreler veya Supabase anahtarları hiçbir sunucuya gönderilmez ve Ensignsoft tarafından toplanmaz. Tüm veriler Kullanıcının kendi cihazında, AES standartlarında şifrelenerek saklanır. Kullanıcı kendi anahtarlarının ve verilerinin güvenliğinden kendisi sorumludur.
+
+6. SÖZLEŞMENİN FESHİ
+Bu Sözleşme'deki herhangi bir şarta uymamanız durumunda bu lisans otomatik olarak sona erecektir. Fesih durumunda, yazılımı ve tüm kopyalarını imha etmeniz gerekmektedir.
+
+7. YETKİLİ MAHKEME
+Bu sözleşme ile ilgili yaşanabilecek her türlü anlaşmazlıkta Türkiye Cumhuriyeti yasaları geçerli olacak ve ilgili mahkemeler yetkili kılınacaktır.
+
+Bu yazılımı indirerek, kurarak veya kullanarak bu lisans sözleşmesinin tüm şartlarını okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan etmiş olursunuz.
