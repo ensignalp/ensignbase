@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" alt="Ensignbase Logo" width="96" height="96" />
+ <img width="250" height="250" alt="logo" src="https://github.com/user-attachments/assets/0e0c948f-c016-486e-97f8-bedd97426fdf" />
 </p>
 
 <h1 align="center">Ensignbase</h1>
